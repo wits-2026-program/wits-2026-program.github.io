@@ -396,7 +396,7 @@
       "id": "session-2b",
       "code": "2B",
       "title": "Human-AI Collaboration & Collective Judgment",
-      "chair": "Wanxue Dong",
+      "chair": "Eaman Jahani",
       "date": "2026-12-17",
       "start": "10:10",
       "end": "11:50",
@@ -438,20 +438,6 @@
           ],
           "presenters": [
             "Eaman Jahani"
-          ],
-          "discussant": "Wanxue Dong",
-          "nominated": false,
-          "kind": "complete"
-        },
-        {
-          "id": "paper-2b-4",
-          "title": "Detecting Failures of the Wisdom of Crowds in Human Decision Making",
-          "authors": [
-            "Xintong Lu",
-            "Wanxue Dong"
-          ],
-          "presenters": [
-            "Wanxue Dong"
           ],
           "discussant": "Jingyi Sun",
           "nominated": false,
